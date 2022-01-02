@@ -1,1 +1,1 @@
-It is a self_practice_landing_page built with Boostrap.
+1.It is a self practice landing page built with Boostrap.
